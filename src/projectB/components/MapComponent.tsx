@@ -53,7 +53,7 @@ const MapComponent: React.FC<MapComponentProps> = ({ impactLocation, setImpactLo
           </Circle>
           {impactResult.craterDiameter > 0 && (
             <Circle center={impactLocation} pathOptions={{ color: craterColor, fillColor: craterColor }} radius={impactResult.craterDiameter / 2}>
-              <Popup>Crater Diameter ({ (impactResult.craterDiameter / 1000).toFixed(1) } km)</Popup>
+              <Popup>Crater Radius ({ (impactResult.craterDiameter / 1000).toFixed(1) } km)</Popup>
             </Circle>
           )}
         </>
