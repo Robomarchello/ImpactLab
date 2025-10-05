@@ -1,0 +1,5 @@
+{
+  "name": "Asteroid Impact Simulator",
+  "description": "An interactive web application that simulates the effects of an asteroid impact on Earth. Users can select from real NASA data of potentially hazardous asteroids or create their own, choose a target location on a 2D map, and visualize the destructive consequences, including crater size, fireball radius, and potential tsunamis.",
+  "requestFramePermissions": []
+}
