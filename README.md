@@ -1,13 +1,10 @@
 
-# Combined Asteroid App
+# ImpactLab
 
 This Vite React (TypeScript) project combines two apps:
-- **Project A** (`src/projectA`) — Solar system canvas (your JS/Canvas app)
-- **Project B** (`src/projectB`) — Asteroid impact simulator (your TS app)
+- **Project A** (`src/projectA`) — Solar system canvas
+- **Project B** (`src/projectB`) — Asteroid impact simulator
 
-## Run
-```bash
-npm install
-npm run dev
-```
+You can find it by link: https://impactlab.onrender.com/
+
 Use the two buttons on the top bar to switch between apps.
