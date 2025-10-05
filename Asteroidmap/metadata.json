@@ -1,0 +1,4 @@
+{
+  "name": "Asteroid Impact Simulator",
+  "description": "An interactive web application that simulates the catastrophic effects of an asteroid impact on Earth. Users can specify the asteroid's properties and impact location on a 2D map to visualize the resulting crater, fireball, shockwave, and receive a detailed, AI-generated report of the event."
+}
