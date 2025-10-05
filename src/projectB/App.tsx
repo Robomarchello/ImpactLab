@@ -1,3 +1,4 @@
+import './leaflet-fix';
 
 import React, { useState, useEffect, useCallback } from 'react';
 import { LatLngTuple } from 'leaflet';
